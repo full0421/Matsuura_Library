@@ -1,3 +1,3 @@
 # Matsuura_Library
- ライブラリだ、ありがたい。ってなるようがんばります。\n
+ ライブラリだ、ありがたい。ってなるようがんばります。
  This is made by Keiga Matsuura.
